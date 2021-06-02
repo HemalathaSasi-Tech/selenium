@@ -14,6 +14,6 @@ class OddOrEven
 		System.out.println("the number is Odd");
 	}
 }
-	
+//program for add or even	
 
 
